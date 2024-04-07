@@ -12,12 +12,8 @@
 
 ### Statistics
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="James Elliott's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aureq&theme=material-palenight&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureq&theme=material-palenight&count_private=true" />
-  </a>
+  <img align="center" alt="James Elliott's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aureq&theme=material-palenight&count_private=true" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureq&theme=material-palenight&count_private=true" />
 </div>
 
 <!--
